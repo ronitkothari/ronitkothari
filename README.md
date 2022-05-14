@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Hi, my name is Chen Xi!
+  Hi, my name is Ronit Kothari
   <br/>
   <br/>
 
@@ -14,25 +14,23 @@
   <img align="center" alt="Chen Xi" src="https://komarev.com/ghpvc/?username=chennxi123"/> -->
 </p>
 <p align="center">
-  <img alt="Chennxi123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennxi123&langs_count=6&layout=compact&theme=dark"/>
+  <img alt="Ronit Kothari's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennxi123&langs_count=6&layout=compact&theme=dark"/>
 
 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samyak-mehta2/">
-  <img style="margin:10px" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/ronit-kothari-a44a2223a/>
+  <img style="margin:10px" alt="Ronit Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
   </a>
 
 
-  <a href="mailto:samyakmehta@mail.utoronto.ca">
-    <img alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
+  <a href="mailto:ronit.kothari@ryerson.ca">
+    <img alt="Ronit Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
  
 
-  <a href="https://samyakmehta.me/">
-    <img align="centre" alt="Samyak facebook" width="70px" height="70px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
-  </a>
+  
 </p>
 
 
