@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronit-kothari-a44a2223a/">
+  <a href="https://www.linkedin.com/in/ronit-kothari/">
   <img style="margin:10px" alt="Ronit Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
   </a>
 
