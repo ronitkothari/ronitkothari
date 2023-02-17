@@ -30,7 +30,7 @@
   </a>
 
 
-  <a href="mailto:ronit.kothari@ryerson.ca">
+  <a href="mailto:ronit.kothari@torontomu.ca">
     <img alt="Ronit Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
  
