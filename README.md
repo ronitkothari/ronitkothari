@@ -55,7 +55,7 @@ You can find me on the following platforms:
 
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/material-rounded/96/000000/email.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/material-outlined/96/000000/mail.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/></a>
 </p>
 
