@@ -46,8 +46,8 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 ## 📫 Where to reach me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/></a>
+  <a href="mailto:ronit.kothari@torontomu.ca"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ronit-kothari/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/></a>
 </p>
 
 
