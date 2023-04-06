@@ -5,7 +5,6 @@
 
  # Hi there 👋, I'm Ronit Kothari
 
-![Header](https://github.com/ronitkothari/ronitkothari/blob/main/assets/header.png?raw=true "Header")
 
 I'm a software developer and a tech enthusiast. I love building things that solve real-world problems and make people's lives easier.
 
