@@ -42,20 +42,11 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me
 
 ## 📫 Where to reach me
 
-You can find me on the following platforms:
-
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/clouds/100/000000/new-post.png" alt="Email" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
-</p>
-
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/material-outlined/96/000000/mail.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/></a>
 </p>
 
