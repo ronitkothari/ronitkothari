@@ -36,10 +36,6 @@ I'm a software developer and a tech enthusiast. I love building things that solv
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40
 
-
-
-
-
 ## 🌟 GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
