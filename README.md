@@ -11,6 +11,7 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 
 ## 🔧 Technologies & Tools
 
+
 ## 🔧 Technologies & Tools
 
 <p align="center">
@@ -30,11 +31,15 @@ I'm a software developer and a tech enthusiast. I love building things that solv
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40
+</p>
+
+
+
 
 ## 🌟 GitHub Stats
 
