@@ -2,24 +2,7 @@
 
 
 <p align="center">
- 
- Hi there, I'm Your Name 👋
-I'm a software developer and a tech enthusiast. I love building things that solve real-world problems and make people's lives easier.
 
-🔭 Current Projects
-Project 1 - A web app that helps you track your daily expenses.
-Project 2 - A mobile app that helps you learn new languages by playing games.
-Project 3 - A machine learning model that predicts stock prices.
-🌱 Skills
-Languages: Python, JavaScript, Java, C++, HTML/CSS
-Frameworks/Libraries: React, Angular, Flask, Django, Express.js
-Tools: Git, Docker, Kubernetes, AWS, Heroku
-📫 How to reach me
-Email: your-email@example.com
-LinkedIn: linkedin.com/in/your-profile
-Twitter: @your-username
-🤝 Let's collaborate
-I'm always open to new ideas and collaborations. If you have a cool project in mind or just want to say hi, feel free to reach out!
  
   Hi, my name is Ronit Kothari
   <br/>
