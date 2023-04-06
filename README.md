@@ -49,9 +49,10 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 You can find me on the following platforms:
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/email-sign--v1.png" alt="Email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/clouds/100/000000/new-post.png" alt="Email" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
 </p>
+
 
 Feel free to reach out to me if you want to discuss any of my projects, or just want to have a chat! 😊
 
