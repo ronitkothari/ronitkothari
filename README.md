@@ -3,7 +3,7 @@
 
 <p align="center">
 
- # Hi there 👋, I'm [Your Name](https://your-website.com/)
+ # Hi there 👋, I'm Ronit Kothari(https://www.linkedin.com/in/ronit-kothari/)
 
 ![Header](https://github.com/your-username/your-username/blob/main/assets/header.png?raw=true "Header")
 
@@ -20,29 +20,21 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/your-username/project-1) - A web app that helps you track your daily expenses.
+- [Project 1](https://github.com/ronitkothari/yelpcamp) - A web app that helps you review and pick campgrounds
 - [Project 2](https://github.com/your-username/project-2) - A mobile app that helps you learn new languages by playing games.
 - [Project 3](https://github.com/your-username/project-3) - A machine learning model that predicts stock prices.
 
 ## 🌟 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
-- Email: your-email@example.com
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@your-username](https://twitter.com/your-username)
-
-## 👨‍💻 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/your-username/repo-name/pull/1) in [your-username/repo-name](https://github.com/your-username/repo-name)
-2. 🎉 Merged PR [#2](https://github.com/your-username/repo-name/pull/2) in [your-username/repo-name](https://github.com/your-username/repo-name)
-<!--END_SECTION:activity-->
+- Email: ronit.kothari@torontomu.ca
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ronit-kothari/)
 
 
- 
+
   Hi, my name is Ronit Kothari
   <br/>
   <br/>
