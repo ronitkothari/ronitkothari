@@ -18,11 +18,6 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
-## 🚀 Projects
-
-- [Project 1](https://github.com/ronitkothari/yelpcamp) - A web app that helps you review and pick campgrounds
-- [Project 2](https://github.com/your-username/project-2) - A mobile app that helps you learn new languages by playing games.
-- [Project 3](https://github.com/your-username/project-3) - A machine learning model that predicts stock prices.
 
 ## 🌟 GitHub Stats
 
@@ -31,7 +26,7 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 ## 📫 How to reach me
 
 - Email: ronit.kothari@torontomu.ca
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/ronit-kothari/)
+- LinkedIn: [ronitkothari](https://www.linkedin.com/in/ronit-kothari/)
 
 
 
