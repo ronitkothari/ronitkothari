@@ -60,8 +60,8 @@ Here are some of the technologies and tools I work with:
 Feel free to reach out to me if you want to discuss any of my projects, or just want to have a chat! 😊
 
 
-- **Email: ronit.kothari@torontomu.ca
-- **LinkedIn: [ronitkothari](https://www.linkedin.com/in/ronit-kothari/)
+- **Email: ronit.kothari@torontomu.ca**
+- **LinkedIn: [ronitkothari](https://www.linkedin.com/in/ronit-kothari/)**
 
 
 
