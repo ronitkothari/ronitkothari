@@ -27,7 +27,11 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://angular.io/"><img src="https://img.icons8.com/color/96/000000/angularjs.png" alt="Angular" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/96/000000/vue-js.png" alt="Vue.js" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/96/000000/azure-1.png" alt="Azure" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,18 +42,8 @@ Here are some of the technologies and tools I work with:
 
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://angular.io/"><img src="https://img.icons8.com/color/96/000000/angularjs.png" alt="Angular" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/96/000000/vue-js.png" alt="Vue.js" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/96/000000/azure-1.png" alt="Azure" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp
+  
  
 
 
