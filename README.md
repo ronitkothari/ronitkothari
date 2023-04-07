@@ -24,6 +24,9 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/"><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ [<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="35" height="35">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="https://cdn.svgporn.com/logos/c.svg" alt="C" width="35" height="35">](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="35" height="35">](https://git-scm.com/)
   <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
