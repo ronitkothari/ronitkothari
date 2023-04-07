@@ -6,7 +6,7 @@
  # Hi there 👋, I'm Ronit Kothari
 
 
-I'm a software developer and a tech enthusiast. I love building things that solve real-world problems and make people's lives easier.
+I'm a **software developer** and a **tech enthusiast**. I love building things that solve real-world problems and make people's lives easier.
 
 
   
