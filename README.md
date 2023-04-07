@@ -7,17 +7,6 @@
 
 
 I'm a software developer and a tech enthusiast. I love building things that solve real-world problems and make people's lives easier.
- 
-# Hi there, I'm John 👋
-
-I'm a software developer with a passion for creating innovative applications that solve real-world problems. My tech stack includes:
-
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/
 
 
   
