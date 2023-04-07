@@ -14,53 +14,8 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 ## 🔧 Tools and Technologies
 
 These are some of the tools and technologies I'm familiar with:
- 
-## Technologies and Tools
 
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.learn-c.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/>
-  </a>
-  <a
+  
 
 
 <p align="center">
