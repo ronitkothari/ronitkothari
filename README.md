@@ -24,8 +24,8 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/"><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.csharp.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.csharp.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a>
   <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.icons8.com/color/96/000000/powershell.png" alt="PowerShell" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
 
 
 <p align="center">
