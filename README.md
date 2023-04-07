@@ -16,6 +16,24 @@ I'm a software developer and a tech enthusiast. I love building things that solv
 These are some of the tools and technologies I'm familiar with:
 
   
+## 💻 Tools & Technologies
+
+Here are some of the technologies and tools I work with:
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/96/000000/jquery.png" alt="jQuery" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.icons8.com/color/96/000000/powershell.png" alt="PowerShell" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp
 
 
 <p align="center">
@@ -32,6 +50,7 @@ These are some of the tools and technologies I'm familiar with:
   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp
+ 
 
 
 <p align="center">
