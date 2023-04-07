@@ -7,6 +7,11 @@
 
 
 I'm a software developer and a tech enthusiast. I love building things that solve real-world problems and make people's lives easier.
+ 
+ <p align="center">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coding GIF" width="500">
+</p>
+
 
   
 ## 💻 Tools & Technologies
