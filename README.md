@@ -12,7 +12,7 @@ I'm a **software developer** and a **tech enthusiast**. I love building things t
   
 ## 💻 Tools & Technologies
 
-Here are some of the technologies and tools I work with:
+Here are some of the tools and technologies I work with:
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +57,7 @@ Here are some of the technologies and tools I work with:
 </p>
 
 
-Feel free to reach out to me if you want to discuss any of my projects, or just want to have a chat! 😊
+**Feel free to reach out** to me if you want to discuss any of my projects, or just want to have a chat! 😊
 
 
 - **Email: ronit.kothari@torontomu.ca**
