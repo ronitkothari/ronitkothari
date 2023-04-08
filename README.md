@@ -61,7 +61,7 @@ Here are some of the tools and technologies I work with:
 
 
 - **Email: ronit.kothari@torontomu.ca**
-- **LinkedIn: [ronitkothari](https://www.linkedin.com/in/ronit-kothari/)**
+- **LinkedIn: [https://www.linkedin.com/in/ronit-kothari/](https://www.linkedin.com/in/ronit-kothari/)**
 
 
 
