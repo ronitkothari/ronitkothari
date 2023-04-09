@@ -3,7 +3,11 @@
 
 <p align="center">
 
- # Hi 👋, I'm **Ronit Kothari**
+ # Hi 👋, I'm **Ronit Kothari** <p align="center">
+  <a href="mailto:ronit.kothari@torontomu.ca"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ronit-kothari/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/></a>
+</p>
+
 
 
 I'm a **software developer** and a **tech enthusiast**. I love building things that solve real-world problems and make people's lives easier.
