@@ -3,7 +3,7 @@
 
 <p align="center">
 
- # Hi 👋, I'm **Ronit Kothari**  <a href="https://www.linkedin.com/in/ronitk13/"><img src="https://img.shields.io/badge/-ronitk13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronitk13/" alt="LinkedIn"></a> <a href="mailto:ronit.kothari13@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+ # Hi 👋, I'm **Ronit Kothari**  <a href="https://www.linkedin.com/in/ronit-kothari/"><img src="https://img.shields.io/badge/-ronitk13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronit-kothari/" alt="LinkedIn"></a> <a href="mailto:ronit.kothari@torontomu.ca"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
 
 
 
