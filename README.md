@@ -3,7 +3,7 @@
 
 <p align="center">
 
- # Hi there 👋, I'm **Ronit Kothari**
+ # Hi 👋, I'm **Ronit Kothari**
 
 
 I'm a **software developer** and a **tech enthusiast**. I love building things that solve real-world problems and make people's lives easier.
@@ -58,6 +58,7 @@ Here are some of the tools and technologies I work with:
 
 
 **Feel free to reach out** to me if you want to discuss any of my projects, or just want to have a chat! 😊
+Also, just **email** me if you want to see my **resume**
 
 
 - **Email: ronit.kothari@torontomu.ca**
