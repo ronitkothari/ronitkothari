@@ -16,7 +16,7 @@ I'm a **software developer** and a **tech enthusiast**. I love building things t
   
 ## 💻 Tools & Technologies
 
-Here are some of the **tools** and technologies I work with:
+Here are some of the **tools** and **technologies** I work with:
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
