@@ -3,7 +3,7 @@
 
 <p align="center">
 
- # Hi 👋, I'm **Ronit Kothari** 
+ # Hey 👋, I'm **Ronit Kothari** 
  
  <a href="https://www.linkedin.com/in/ronit-kothari/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronit-kothari/" alt="LinkedIn"></a> <a href="mailto:ronit.kothari@torontomu.ca"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
 
@@ -16,7 +16,7 @@ I'm a **software developer** and a **tech enthusiast**. I love building things t
   
 ## 💻 Tools & Technologies
 
-Here are some of the tools and technologies I work with:
+Here are some of the **tools** and technologies I work with:
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
