@@ -50,7 +50,7 @@ Here are some of the **tools** and **technologies** I work with:
   
 
 
-
+<!-- 
  
 <!-- Have to fix the GitHub Stats add env
 ## 🌟 GitHub Stats
@@ -59,7 +59,7 @@ Here are some of the **tools** and **technologies** I work with:
 
  -->
  
- 
+  -->
  
 ## 📫 Where to reach me
 
