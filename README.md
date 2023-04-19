@@ -46,6 +46,7 @@ Here are some of the **tools** and **technologies** I work with:
 
  
 <p align="center">
+<p align="center">
   
   
 
@@ -59,7 +60,7 @@ Here are some of the **tools** and **technologies** I work with:
 
  -->
  
-  -->
+ 
  
 ## 📫 Where to reach me
 
