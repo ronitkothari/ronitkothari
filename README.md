@@ -44,17 +44,18 @@ Here are some of the **tools** and **technologies** I work with:
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
 
 
+ 
 <p align="center">
   
   
- 
 
-<!--
+
+
  
 Have to fix the GitHub Stats add env
-## 🌟 GitHub Stats -->
+## 🌟 GitHub Stats
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[Ronit Kothari[](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Where to reach me
