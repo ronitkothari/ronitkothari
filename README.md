@@ -52,7 +52,7 @@ Here are some of the **tools** and **technologies** I work with:
 <!-- 
 ## 🌟 GitHub Stats -->
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkothari&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## 📫 Where to reach me
