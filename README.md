@@ -13,7 +13,7 @@
 I'm a **Software Developer** and a **tech enthusiast**. I love building things that solve real-world problems and make people's lives easier!
 
  
-Currently a **Computer Science student** at Toronto Metropolitan University (Formerly Ryerson University) 🎓
+A **Computer Science graduate** 🎓
 
   
 ## 💻 Tools & Technologies
@@ -71,10 +71,6 @@ Here are some of the **tools** and **technologies** I work with:
 
 
 **Feel free to reach out** to me if you want to discuss any of my projects, or just want to have a chat! 😊
-
-
-
-Also, just **email** me if you want to see my **resume!**
 
 
 - **Email: ronit.kothari@torontomu.ca**
