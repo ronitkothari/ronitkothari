@@ -13,7 +13,7 @@
 I'm a **Software Developer** and a **tech enthusiast**. I love building things that solve real-world problems and make people's lives easier!
 
  
-A **Computer Science graduate** 🎓
+
 
   
 ## 💻 Tools & Technologies
